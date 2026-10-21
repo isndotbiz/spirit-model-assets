@@ -1,0 +1,7 @@
+# 294M of PNG masters rescued 2026-08-21 from the stale Infrastructure/isnbiz-website
+# clone before it was archived. They are the ONLY surviving masters — the CDN
+# (b2c.isn.biz/file/isnbiz-cdn/spiritatlas/images/) has only .webp derivatives.
+# Deliberately untracked: 294M of binaries do not belong in git history.
+# Proper home is B2 or git-lfs. Until then these files are the backstop and are
+# covered by the restic workspace backup.
+png-masters/
